@@ -1,0 +1,1 @@
+query {\n  characters(page: 4) {\n    id\n    name\n    status\n    image\n  }\n}
