@@ -1,8 +1,10 @@
 query {
   characters(page: 1) {
-    id 
-    name
-    status 
-    image
+    results {
+      id 
+      name
+      status 
+      image
+    }
   }
 }

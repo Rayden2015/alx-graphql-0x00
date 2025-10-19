@@ -1,1 +1,10 @@
-query {\n  characters(page: 4) {\n    id\n    name\n    status\n    image\n  }\n}
+query {
+  characters(page: 4) {
+    results {
+      id
+      name
+      status
+      image
+    }
+  }
+}
