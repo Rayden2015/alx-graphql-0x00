@@ -1,0 +1,74 @@
+{
+    "data": {
+        "episodes": {
+            "results": [
+                {
+                    "id": "41",
+                    "name": "Star Mort: Rickturn of the Jerri",
+                    "air_date": "May 31, 2020",
+                    "episode": "S04E10"
+                },
+                {
+                    "id": "42",
+                    "name": "Mort Dinner Rick Andre",
+                    "air_date": "June 20, 2021",
+                    "episode": "S05E01"
+                },
+                {
+                    "id": "43",
+                    "name": "Mortyplicity",
+                    "air_date": "June 27, 2021",
+                    "episode": "S05E02"
+                },
+                {
+                    "id": "44",
+                    "name": "A Rickconvenient Mort",
+                    "air_date": "July 4, 2021",
+                    "episode": "S05E03"
+                },
+                {
+                    "id": "45",
+                    "name": "Rickdependence Spray",
+                    "air_date": "July 11, 2021",
+                    "episode": "S05E04"
+                },
+                {
+                    "id": "46",
+                    "name": "Amortycan Grickfitti",
+                    "air_date": "July 18, 2021",
+                    "episode": "S05E05"
+                },
+                {
+                    "id": "47",
+                    "name": "Rick & Morty's Thanksploitation Spectacular",
+                    "air_date": "July 25, 2021",
+                    "episode": "S05E06"
+                },
+                {
+                    "id": "48",
+                    "name": "Gotron Jerrysis Rickvangelion",
+                    "air_date": "August 1, 2021",
+                    "episode": "S05E07"
+                },
+                {
+                    "id": "49",
+                    "name": "Rickternal Friendshine of the Spotless Mort",
+                    "air_date": "August 8, 2021",
+                    "episode": "S05E08"
+                },
+                {
+                    "id": "50",
+                    "name": "Forgetting Sarick Mortshall",
+                    "air_date": "September 5, 2021",
+                    "episode": "S05E09"
+                },
+                {
+                    "id": "51",
+                    "name": "Rickmurai Jack",
+                    "air_date": "September 5, 2021",
+                    "episode": "S05E10"
+                }
+            ]
+        }
+    }
+}

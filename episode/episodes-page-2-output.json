@@ -1,0 +1,128 @@
+{
+    "data": {
+        "episodes": {
+            "results": [
+                {
+                    "id": "21",
+                    "name": "The Wedding Squanchers",
+                    "air_date": "October 4, 2015",
+                    "episode": "S02E10"
+                },
+                {
+                    "id": "22",
+                    "name": "The Rickshank Rickdemption",
+                    "air_date": "April 1, 2017",
+                    "episode": "S03E01"
+                },
+                {
+                    "id": "23",
+                    "name": "Rickmancing the Stone",
+                    "air_date": "July 30, 2017",
+                    "episode": "S03E02"
+                },
+                {
+                    "id": "24",
+                    "name": "Pickle Rick",
+                    "air_date": "August 6, 2017",
+                    "episode": "S03E03"
+                },
+                {
+                    "id": "25",
+                    "name": "Vindicators 3: The Return of Worldender",
+                    "air_date": "August 13, 2017",
+                    "episode": "S03E04"
+                },
+                {
+                    "id": "26",
+                    "name": "The Whirly Dirly Conspiracy",
+                    "air_date": "August 20, 2017",
+                    "episode": "S03E05"
+                },
+                {
+                    "id": "27",
+                    "name": "Rest and Ricklaxation",
+                    "air_date": "August 27, 2017",
+                    "episode": "S03E06"
+                },
+                {
+                    "id": "28",
+                    "name": "The Ricklantis Mixup",
+                    "air_date": "September 10, 2017",
+                    "episode": "S03E07"
+                },
+                {
+                    "id": "29",
+                    "name": "Morty's Mind Blowers",
+                    "air_date": "September 17, 2017",
+                    "episode": "S03E08"
+                },
+                {
+                    "id": "30",
+                    "name": "The ABC's of Beth",
+                    "air_date": "September 24, 2017",
+                    "episode": "S03E09"
+                },
+                {
+                    "id": "31",
+                    "name": "The Rickchurian Mortydate",
+                    "air_date": "October 1, 2017",
+                    "episode": "S03E10"
+                },
+                {
+                    "id": "32",
+                    "name": "Edge of Tomorty: Rick, Die, Rickpeat",
+                    "air_date": "November 10, 2019",
+                    "episode": "S04E01"
+                },
+                {
+                    "id": "33",
+                    "name": "The Old Man and the Seat",
+                    "air_date": "November 17, 2019",
+                    "episode": "S04E02"
+                },
+                {
+                    "id": "34",
+                    "name": "One Crew Over the Crewcoo's Morty",
+                    "air_date": "November 24, 2019",
+                    "episode": "S04E03"
+                },
+                {
+                    "id": "35",
+                    "name": "Claw and Hoarder: Special Ricktim's Morty",
+                    "air_date": "December 8, 2019",
+                    "episode": "S04E04"
+                },
+                {
+                    "id": "36",
+                    "name": "Rattlestar Ricklactica",
+                    "air_date": "December 15, 2019",
+                    "episode": "S04E05"
+                },
+                {
+                    "id": "37",
+                    "name": "Never Ricking Morty",
+                    "air_date": "May 3, 2020",
+                    "episode": "S04E06"
+                },
+                {
+                    "id": "38",
+                    "name": "Promortyus",
+                    "air_date": "May 10, 2020",
+                    "episode": "S04E07"
+                },
+                {
+                    "id": "39",
+                    "name": "The Vat of Acid Episode",
+                    "air_date": "May 17, 2020",
+                    "episode": "S04E08"
+                },
+                {
+                    "id": "40",
+                    "name": "Childrick of Mort",
+                    "air_date": "May 24, 2020",
+                    "episode": "S04E09"
+                }
+            ]
+        }
+    }
+}
